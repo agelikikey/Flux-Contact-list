@@ -22,7 +22,6 @@ export const Contacts = () => {
 						<ContactCard onDelete={() => setState({ showModal: true })} />
 						<ContactCard />
 						<ContactCard />
-						<ContactCard />
 					</ul>
 				</div>
 			</div>
